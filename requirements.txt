@@ -1,5 +1,6 @@
 numpy
-jupyter notebook
+jupyter
+notebook
 matplotlib
 pandas
 scikit-learn
